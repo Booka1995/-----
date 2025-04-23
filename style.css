@@ -89,7 +89,7 @@ background-color: white;
 }
 
 .main__navigation-botton[aria-pressed="true"] {
-    background: none;
+    background: white;
     border: 2px solid #B8FFEC;
     border-radius: 6px;
     cursor: pointer;
@@ -97,7 +97,7 @@ background-color: white;
     white-space: nowrap;
     line-height: 24px;
     text-decoration: none;
-    color: white;
+    color: #7E7E82;
     font-family: TT Lakes;
     font-weight: 500;
     font-size: 16px;
